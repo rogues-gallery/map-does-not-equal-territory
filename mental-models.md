@@ -1,8 +1,4 @@
----
-description: might as well steal from 'em and go out on a high note
----
-
-# someone else already said it best
+# Mental Models
 
 ## Getting Super Powers
 
